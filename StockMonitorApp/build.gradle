@@ -1,0 +1,15 @@
+plugins {
+    id 'application'
+}
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+    implementation group: 'com.yahoofinance-api', name: 'YahooFinanceAPI', version: '3.17.0'
+}
+
+application {
+    mainClass = 'stockmonitorapp.App'
+}
