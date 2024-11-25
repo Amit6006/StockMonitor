@@ -1,4 +1,4 @@
-# StockMonitor# Stock Monitor Application
+# Stock Monitor Application
 
 This is a simple Java application that monitors the Dow Jones Industrial Average (DJI) stock price in real time and stores the stock value along with the timestamp in a queue.
 
