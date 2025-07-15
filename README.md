@@ -1,6 +1,6 @@
 # Stock Monitor Application
 
-This is a simple Java application that monitors the Dow Jones Industrial Average (DJI) stock price in real time and stores the stock value along with the timestamp in a queue.
+This is a simple Java application that monitors the Dow Jones Industrial Average (DJI) stock price in real time and stores the stock value along with the timestamps in a queue.
 
 ## Features
 - Fetches the Dow Jones Industrial Average (DJI) stock price every 5 seconds.
@@ -20,6 +20,7 @@ This is a simple Java application that monitors the Dow Jones Industrial Average
    gradle build
    gradle run
    ```
+   
 
 ## Dependencies
 - YahooFinanceAPI: A Java library to fetch stock market data.
